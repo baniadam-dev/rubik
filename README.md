@@ -1,1 +1,1 @@
-Game Kubus Rubik menggunakan JavaScript
+# Game Kubus Rubik menggunakan JavaScript
