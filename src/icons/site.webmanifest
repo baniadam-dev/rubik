@@ -1,7 +1,7 @@
 {
   "name": "Rubik 3D",
   "short_name": "Rubik",
-  "start_url": "/",
+  "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
