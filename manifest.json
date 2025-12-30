@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Rubik",
-  "start_url": "https://baniadam-dev.github.io/rubik/",
+  "start_url": "https://baniadam-dev.github.io/rubik/index.html",
   "theme_color": "#ffffff",
   "icons": [
     {
